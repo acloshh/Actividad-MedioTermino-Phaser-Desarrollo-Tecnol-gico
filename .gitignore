@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+node_modules/
+*.log
+
+# Material de referencia que no forma parte de la entrega
+Docs/GDD muestra.pdf
